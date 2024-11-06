@@ -1,0 +1,34 @@
+#tb{
+    border: 0.3vw solid black;
+    background-color: black;
+    color: white;
+    
+ 
+
+}
+#tbr2 tr td{
+    font-size: 4.5vw;
+}
+#tr1 td {
+width: 5vw;
+text-align: center;
+font-size: 5vw;
+
+}
+table tr {
+    height: 5vw;
+    width: 5vw;
+}
+#tb td {
+    height: 5vw;
+    width: 5vw;
+    background-size: 4vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    outline-offset: -0.4vw;
+}
+*{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
